@@ -33,3 +33,4 @@ while salario !=-1:
     
 print ("O ", nomemax, " é o que possui maior salário que é de: ", salmax)
 print ("O ", nomemin, " é o que possui menor salário que é de: ", salmin)
+print ("Olá")
